@@ -7,7 +7,7 @@ var carAnimation, logAnimation, playerAnimation;
 var school;
 function preload()
 {
- playerAnimation=loadImage("Player-03.png");
+
 }
 
 function setup() {
